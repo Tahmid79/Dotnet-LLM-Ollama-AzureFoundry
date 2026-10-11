@@ -1,0 +1,24 @@
+<Solution>
+  <Folder Name="/section5_llms/">
+    <Project Path="../../../../../../../../DOTNET/genai-dotnet/TextCompletion/TextCompletion.csproj" />
+    <Project Path="FunctionCall/FunctionCall.csproj" />
+    <Project Path="TextCompletion_Ollama/TextCompletion_Ollama.csproj" />
+  </Folder>
+  <Folder Name="/section6_vectors/">
+    <Project Path="Embeddings/Embeddings.csproj" />
+    <Project Path="VectorSearch/VectorSearch.csproj" />
+    <Project Path="VectorSearch_Ollama/VectorSearch_Ollama.csproj" />
+  </Folder>
+  <Folder Name="/section7_rag/">
+    <Project Path="ChatApp_RAG/ChatApp_RAG.csproj" />
+    <Project Path="ChatApp_RAG_Ollama/ChatApp_RAG_Ollama.csproj" />
+    <Project Path="ChatApp_RAG_Qdrant/ChatApp_RAG_Qdrant.AppHost/ChatApp_RAG_Qdrant.AppHost.csproj" />
+    <Project Path="ChatApp_RAG_Qdrant/ChatApp_RAG_Qdrant.ServiceDefaults/ChatApp_RAG_Qdrant.ServiceDefaults.csproj" />
+    <Project Path="ChatApp_RAG_Qdrant/ChatApp_RAG_Qdrant.Web/ChatApp_RAG_Qdrant.Web.csproj" />
+  </Folder>
+  <Folder Name="/section8_vision/">
+    <Project Path="ImageAnalysis/ImageAnalysis.csproj" />
+    <Project Path="ImageAnalysis_Ollama/ImageAnalysis_Ollama.csproj" />
+    <Project Path="TrafficCamAnalysis/TrafficCamAnalysis.csproj" />
+  </Folder>
+</Solution>
